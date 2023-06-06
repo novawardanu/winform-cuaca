@@ -1,0 +1,14 @@
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.csproj.AssemblyReference.cache
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.csproj.SuggestedBindingRedirects.cache
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather_Apk.Form1.resources
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather_Apk.Properties.Resources.resources
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.csproj.GenerateResource.cache
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.csproj.CoreCompileInputs.cache
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\bin\Debug\Weather Apk.exe.config
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\bin\Debug\Weather Apk.exe
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\bin\Debug\Weather Apk.pdb
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\bin\Debug\Newtonsoft.Json.dll
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\bin\Debug\Newtonsoft.Json.xml
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.csproj.CopyComplete
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.exe
+D:\Ardis Pribadi\Semester 2\BINDO 46\Tugas\Weather Apk\Weather Apk\obj\Debug\Weather Apk.pdb
